@@ -1,7 +1,9 @@
 # Hexo-code-Plugin [![NPM](https://img.shields.io/npm/dm/hexo-code-plugin.svg)](https://www.npmjs.com/package/hexo-code-plugin)
 Since `highlight.js` didn't support JSX syntax properly, I wrote this plugin to replace
 Hexo's default code highlight plugin.
-## forked from ele828/hexo-prism-plugin(https://github.com/ele828/hexo-prism-plugin)
+## forked from ele828/hexo-prism-plugin
+(https://github.com/ele828/hexo-prism-plugin)
+我只是修改了大括号问题，为了方便我的 hexo 项目，就 forked 然后发布了一下
 ## Install
 ```
 npm i -S hexo-code-plugin
